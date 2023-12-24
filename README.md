@@ -1,28 +1,4 @@
-# Stok Warehouse
-CodeIgniter 3.1.13 with Template Mazer v2.0.3
 
-## Installation
-
-1. Ekstrak File ZIP kedalam folder htdocs.
-2. Import File db_stok_warehouse.sql kedalam localhost/phpmyadmin dengan nama Database db_stok_warehouse
-3. Buka localhost/(nama root masing masing)
-
-# Support Me
-
-<a href="https://trakteer.id/aethershin" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" style="border:0px;height:40px;" alt="Trakteer Saya" height="40"></a>
-<br/>Thank you for your support :)
-
-```
-
-
-## Demo
-Demo Karyawan
-https://stokwarehouse.aethershin.com
-Klik Akun Login diatas form Login Karyawan, lihat email dan password disitu
-
-Demo Admin
-https://stokwarehouse.aethershin.com/admin
-Klik Akun Login diatas form Login Admin, lihat email dan password disitu
 
 ## Server Requirements
 PHP version 5.6 - 7.4.
